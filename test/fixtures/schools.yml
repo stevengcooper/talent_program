@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  address: MyString
-  state: MyString
-  zip: MyString
+  name: "LJ Alleman"
+  address: "333 school st"
+  state: "LA"
+  zip: "70506"
 
 two:
-  name: MyString
-  address: MyString
-  state: MyString
-  zip: MyString
+  name: "Lafayette High"
+  address: "555 school ave"
+  state: "LA"
+  zip: "70502"

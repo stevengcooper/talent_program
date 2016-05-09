@@ -4,22 +4,34 @@ one:
   teacher_id: 1
   parent_id: 1
   school_id: 1
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  password_digest: MyString
-  iep_date: 2016-05-09 10:45:25
+  first_name: "Bill"
+  last_name: "Tables"
+  email: "bill@table.com"
+  password_digest: "monkey"
+  iep_date: 2016-10-09 10:45:25
   exceptionality_id: 1
-  exceptionality_type: MyString
+  exceptionality_type: "Theatre"
 
 two:
-  teacher_id: 1
-  parent_id: 1
+  teacher_id: 2
+  parent_id: 2
   school_id: 1
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  password_digest: MyString
-  iep_date: 2016-05-09 10:45:25
-  exceptionality_id: 1
-  exceptionality_type: MyString
+  first_name: "Jenny"
+  last_name: "Music"
+  email: "jenny@music.com"
+  password_digest: "monkey"
+  iep_date: 2016-11-09 10:45:25
+  exceptionality_id: 2
+  exceptionality_type: "Music"
+
+three:
+    teacher_id: 3
+    parent_id: 2
+    school_id: 2
+    first_name: "Gerry"
+    last_name: "Art"
+    email: "gerry@art.com"
+    password_digest: "monkey"
+    iep_date: 2016-12-09 10:45:25
+    exceptionality_id: 3
+    exceptionality_type: "Music"

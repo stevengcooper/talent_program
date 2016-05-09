@@ -1,11 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  meets_at: 2016-05-09 10:52:44
-  day: MyString
-  location: MyString
+  meets_at: 2016-05-09 10:00:00
+  day: "Monday"
+  location: "Room 214"
 
 two:
-  meets_at: 2016-05-09 10:52:44
-  day: MyString
-  location: MyString
+  meets_at: 2016-05-09 9:00:44
+  day: "Tuesday"
+  location: "Chorus Room"
+
+three:
+  meets_at: 2016-05-09 2:00:00
+  day: "Thursday"
+  location: "Room 333"

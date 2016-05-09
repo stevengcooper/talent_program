@@ -1,15 +1,22 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  password_digest: MyString
-  phone_number: 1
+  first_name: "John"
+  last_name: "Tables"
+  email: "john@tables.com"
+  password_digest: "monkey"
+  phone_number: 3376669999
 
 two:
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  password_digest: MyString
-  phone_number: 1
+  first_name: "Sally"
+  last_name: "Music"
+  email: "sally@music.com"
+  password_digest: "monkey"
+  phone_number: 3379990000
+
+three:
+  first_name: "Rob"
+  last_name: "Art"
+  email: "rob@art.com"
+  password_digest: "monkey"
+  phone_number: 3372228888

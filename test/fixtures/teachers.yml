@@ -1,17 +1,25 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  teacher_type: MyString
-  email: MyString
-  password_digest: MyString
-  first_name: MyString
-  last_name: MyString
-  phone_number: 1
+  teacher_type: "Theatre"
+  email: "amanda@lpssonline.com"
+  password_digest: "monkey"
+  first_name: "Amanda"
+  last_name: "Newbery"
+  phone_number: 3374458809
 
 two:
-  teacher_type: MyString
-  email: MyString
-  password_digest: MyString
-  first_name: MyString
-  last_name: MyString
-  phone_number: 1
+  teacher_type: "Music"
+  email: "chad@lpssonline.com"
+  password_digest: "monkey"
+  first_name: "Chad"
+  last_name: "Viator"
+  phone_number: 3374446666
+
+three:
+  teacher_type: "Visual Art"
+  email: "stephanie@lpssonline.com"
+  password_digest: "monkey"
+  first_name: "Stephanie"
+  last_name: "Patton"
+  phone_number: 3375558888
