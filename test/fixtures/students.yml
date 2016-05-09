@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  teacher_id: 1
+  parent_id: 1
+  school_id: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  password_digest: MyString
+  iep_date: 2016-05-09 10:45:25
+  exceptionality_id: 1
+  exceptionality_type: MyString
+
+two:
+  teacher_id: 1
+  parent_id: 1
+  school_id: 1
+  first_name: MyString
+  last_name: MyString
+  email: MyString
+  password_digest: MyString
+  iep_date: 2016-05-09 10:45:25
+  exceptionality_id: 1
+  exceptionality_type: MyString

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meet_ad: 2016-05-09 10:48:09
+  student_id: 1
+  parent_id: 1
+  teacher_id: MyString
+  location: MyString
+
+two:
+  meet_ad: 2016-05-09 10:48:09
+  student_id: 1
+  parent_id: 1
+  teacher_id: MyString
+  location: MyString
